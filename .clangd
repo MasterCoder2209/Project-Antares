@@ -1,0 +1,2 @@
+CompileFlags:
+	Add: ["--std=c++26", "-I/usr/include/c++/16/"]
